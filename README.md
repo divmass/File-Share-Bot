@@ -12,7 +12,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 
 ##
 
-**If you need any more modes in repo or If you find out any bugs, mention in [IDNrobot](https://www.telegram.dog/Aid6n)**
+**If you need any more modes in repo or If you find out any bugs, mention in [IDNrobot](https://www.telegram.dog/idnrobot)**
 
 ### Features
 - Fully customisable.
