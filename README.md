@@ -28,11 +28,11 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.divmas.my.id/share-link/)</br>
 <br>
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/dmarsly/File-Share-Bot
+git clone https://github.com/divmass/File-Share-Bot
 cd File-Share-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
